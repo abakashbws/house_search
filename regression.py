@@ -12,6 +12,7 @@ for i in range(0,n):
     ele = int(input(" Enter house_prices in :"))
     house_price.append(ele)
 print(house_price)
+#If list of  price and area requirement is available put the i/p in the house_price & size
 #house_price=[245,312,279,308,199,219]
 #size=[1400,1600,1100,1800,1900,1550]
 size = []
